@@ -8,7 +8,7 @@ features:
 - scrape popular streaming websites
 - works in both browser and server-side
 
-Visit documentation here: https://movie-web.github.io/providers/
+[Visit documentation here:](https://github.com/FreeServiceSource/movie-web-providers/) 
 
 ## How to run locally or test my changes
 
